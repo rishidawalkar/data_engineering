@@ -1,0 +1,6 @@
+Id,Institution_Name,Branch_Name,Branch_Number,City,County,State,Zipcode,2010_Deposits,2011_Deposits,2012_Deposits,2013_Deposits,2014_Deposits,2015_Deposits,2016_Deposits
+1,abcde,Bandra,100,Mumbai,Western,Maharashtra,400000,9783849,844848,8484393,834841,284773,7389298,737839
+2,gdtd,Govind nagar,101,Nashik,Eastern,Maharashtra,41111,64848,836239,53446,834780,76436,98753,23556
+3,huhu,Shivaji park,102,Mumbai,Western,Maharashtra,400000,738282,618151,878776,676755,343567,2457445,764538
+4,gstu,Bronx,500,Newyork,Northern,NY,10000,7632927,652818,787565,1234556,4545734,67545454,4543
+5,ppaio,Manhattan,501,Newyork,Central,NY,10001,729929,638828,517829,4291873,743778,122738,737728
