@@ -1,0 +1,10 @@
+name,subject,marks ,status,attendance
+mike,maths,80,P,90
+mike,python,75,P,80
+mike,science,40,F,60
+nancy,maths,56,P,70
+nancy,python,32,F,63
+nancy,science,90,P,85
+prince,maths,74,P,68
+prince,python,88,P,82
+prince,science,77,P,89
