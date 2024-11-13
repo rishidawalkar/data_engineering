@@ -1,0 +1,16 @@
+id,product_name,years,sales
+1,Laptop,2020,1500
+2,Laptop,2021,1750
+3,Laptop,2022,2000
+4,Smartphone,2020,2500
+5,Smartphone,2021,3000
+6,Smartphone,2022,3500
+7,Tablet,2020,1200
+8,Tablet,2021,1400
+9,Tablet,2022,1600
+10,Headphones,2020,800
+11,Headphones,2021,850
+12,Headphones,2022,900
+13,Smartwatch,2020,600
+14,Smartwatch,2021,700
+15,Smartwatch,2022,750
