@@ -1,0 +1,22 @@
+id,subjects,marks
+1,pyspark,90
+1,sql,100
+2,sql,70
+2,pyspark,60
+3,sql,30
+3,pyspark,20
+1,python,80
+2,python,85
+3,python,75
+5,scala,95
+2,scala,65
+6,scala,55
+1,java,70
+2,java,60
+6,java,80
+1,data science,85
+2,data science,90
+4,data science,65
+1,machine learning,75
+5,machine learning,80
+3,machine learning,55
