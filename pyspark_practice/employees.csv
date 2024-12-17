@@ -1,0 +1,6 @@
+emp_id,name,age,salary
+1,alice,25,5000
+2,bob,30,6000
+3,charlie,,5500
+4,david,35,
+5,eve,,

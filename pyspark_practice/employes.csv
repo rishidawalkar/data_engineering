@@ -1,0 +1,6 @@
+id,first_name,last_name,salary,joining_date,dept,gender
+1,Vikas,Ahlawat,600000,2013-02-15 11:16:28,IT,Male
+2,Nikita,Jain,530000,2014-01-09 17:31:08,HR,Female
+3,Ashish,Kumar,1000000,2014-01-09 10:05:08,IT,Male
+4,Nikhil,Sharma,480000,2014-01-09 9:00:08,HR,Male
+5,Anish,Kadian,500000,2014-01-09 9:31:08,Payroll,Male

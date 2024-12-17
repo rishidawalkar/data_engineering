@@ -1,0 +1,6 @@
+product,quantity,properties
+laptop,20,"""silver"", 2.5"
+phone,50,"""black"", 0.5"
+tablet,30,"""white"", 0.8"
+chair,10,"""brown"", 3.0"
+printer,15,"""gray"", 7.5"
