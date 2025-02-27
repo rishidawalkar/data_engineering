@@ -1,0 +1,13 @@
+product_id,product_name,price,category
+1,Wireless Mouse,29.99,Electronics
+2,Gaming Keyboard,79.99,Electronics
+3,Noise-Cancelling Headphones,200,Electronics
+4,Yoga Mat,24.99,Fitness
+5,Dumbbell Set,59.99,Fitness
+6,Running Shoes,89.99,Fitness
+7,Organic Green Tea,15,Groceries
+8,Dark Chocolate Bar,4.99,Groceries
+9,Almond Butter,9.99,Groceries
+10,Desk Lamp,39.99,Home & Office
+11,Office Chair,129.99,Home & Office
+12,Bookshelf,250,Home & Office

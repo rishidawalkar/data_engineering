@@ -1,0 +1,6 @@
+salesId,Product,Quantity,Price,Region,Sales_date
+1,Laptop,10,50000,North,2025-01-01
+2,Mobile,,15000,South,
+3,Tablet,20,,West,2025-01-03
+4,Desktop,15,30000,,2025-01-04
+5,,,,East,2025-01-05
