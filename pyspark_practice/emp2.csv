@@ -1,0 +1,9 @@
+emp_id,emp_name,salary,dept_id
+1,Alice,5000,1
+2,Bob,7000,2
+3,Charlie,4000,1
+4,David,6000,2
+5,Eve,8000,3
+6,Kev,9000,3
+7,Mev,10000,3
+8,Mob,12000,2

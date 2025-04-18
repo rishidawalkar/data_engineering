@@ -1,0 +1,6 @@
+id,city,pollutant,level,dates
+1,Delhi,PM2.5,320,
+2,Mumbai,PM10,180,2024-03-10
+3,Bangalore,SO2,,2024-03-02
+4,Kolkata,NO2,45,
+5,Chennai,CO,10,2024-03-03

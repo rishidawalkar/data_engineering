@@ -1,0 +1,7 @@
+cust_id,cust_name,city,amount,category
+201,aman,delhi,1500,electronics
+202,kiran,mumbai,,fashion
+203,ravi,bangalore,2000,electronics
+204,simran,hyderabad,,fashion
+205,vinay,pune,1800,electronics
+206,pooja,chennai,1300,grocery

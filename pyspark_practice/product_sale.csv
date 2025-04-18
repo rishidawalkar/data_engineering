@@ -1,0 +1,7 @@
+product_id,region,month,amount
+P001,South,Jan,1000
+P001,North,Jan,1200
+P001,South,Feb,1300
+P002,North,Jan,900
+P002,South,Feb,1100
+P002,North,Feb,1000

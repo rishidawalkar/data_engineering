@@ -1,0 +1,6 @@
+app_name,level,log_message,timestamp
+auth,ERROR,Login failed due to error,2024-03-28 10:00:00
+payment,INFO,Payment timeout occurred,2024-03-28 10:01:00
+auth,INFO,User logged in,2024-03-28 10:02:00
+payment,ERROR,Unknown exception raised,2024-03-28 10:03:00
+orders,INFO,Order placed successfully,2024-03-28 10:04:00
