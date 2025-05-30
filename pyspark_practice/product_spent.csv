@@ -1,0 +1,51 @@
+category,product,user_id,spend,tran_date
+Electronics,TV,101,500,2022-01-01 12:00:00
+Electronics,Laptop,102,1200,2022-01-01 13:00:00
+Electronics,Headphones,103,100,2022-01-02 14:00:00
+Electronics,Smartphone,104,800,2022-01-03 15:00:00
+Electronics,Smartwatch,105,200,2022-01-03 16:00:00
+Clothing,Shirt,201,20,2022-01-01 12:00:00
+Clothing,Pants,202,35,2022-01-02 13:00:00
+Clothing,Jacket,203,50,2022-01-03 14:00:00
+Clothing,Shoes,204,80,2022-01-03 15:00:00
+Clothing,Socks,205,5,2022-01-03 16:00:00
+Books,Fiction,301,15,2022-01-01 12:00:00
+Books,Non-fiction,302,20,2022-01-02 13:00:00
+Books,Biography,303,25,2022-01-03 14:00:00
+Books,Cookbook,304,10,2022-01-03 15:00:00
+Books,Childrens,305,8,2022-01-03 16:00:00
+Home Goods,Furniture,401,600,2022-01-01 12:00:00
+Home Goods,Bedding,402,100,2022-01-02 13:00:00
+Home Goods,Decor,403,50,2022-01-03 14:00:00
+Home Goods,Kitchenware,404,75,2022-01-03 15:00:00
+Home Goods,Cleaning Supplies,405,25,2022-01-03 16:00:00
+Electronics,TV,1001,1200,2022-01-01 10:30:00
+Electronics,Laptop,1002,2200,2022-01-01 12:00:00
+Electronics,Phone,1003,1800,2022-01-02 14:00:00
+Electronics,TV,1004,1400,2022-01-02 16:30:00
+Electronics,Laptop,1005,1800,2022-01-03 10:00:00
+Electronics,Tablet,1006,800,2022-01-03 13:15:00
+Clothing,Shoes,1007,400,2022-01-04 9:30:00
+Clothing,Jacket,1008,350,2022-01-04 14:00:00
+Clothing,Pants,1009,150,2022-01-05 11:30:00
+Clothing,Shirt,1010,120,2022-01-05 13:30:00
+Sports,Soccer ball,1011,25,2022-01-06 10:00:00
+Sports,Baseball bat,1012,50,2022-01-06 12:00:00
+Sports,Basketball,1013,40,2022-01-07 13:00:00
+Sports,Football,1014,35,2022-01-07 15:30:00
+Sports,Golf clubs,1015,100,2022-01-08 10:30:00
+Home,Couch,1016,900,2022-01-08 12:00:00
+Home,Bed,1017,700,2022-01-09 14:00:00
+Home,Coffee table,1018,300,2022-01-09 16:30:00
+Home,Chair,1019,200,2022-01-10 10:00:00
+Home,Rug,1020,100,2022-01-10 13:15:00
+Electronics,Smartphone,104,800,2022-01-03 10:00:00
+Home Appliances,Microwave,105,150,2022-01-03 11:00:00
+Sports,Treadmill,106,900,2022-01-04 9:30:00
+Fashion,Watch,107,250,2022-01-04 15:45:00
+Books,Novel,108,20,2021-01-05 12:00:00
+Electronics,Camera,109,450,2022-01-05 13:30:00
+Home Appliances,Vacuum Cleaner,110,200,2022-01-06 14:00:00
+Electronics,Tablet,111,600,2022-01-07 16:15:00
+Gardening,Lawn Mower,112,300,2023-01-08 10:20:00
+Fashion,Sunglasses,113,120,2023-01-08 17:00:00

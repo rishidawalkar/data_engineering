@@ -1,7 +1,4 @@
-id,name,location
-1,gaurav,"pune,bangalore,hyderabad"
-2,Rishab,"mumbai,pune,bangalore"
-3,amit,"delhi,chennai,kolkata"
-4,priya,"hyderabad,pune,bangalore"
-5,suresh,"bangalore,pune,mumbai"
-6,kumar,"pune,hyderabad,bangalore"
+city_id,city_name
+1,Mumbai
+2,Delhi
+3,Bengaluru

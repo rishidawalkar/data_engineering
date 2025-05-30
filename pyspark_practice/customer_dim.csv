@@ -1,0 +1,4 @@
+customer_id,customer_name,city,start_date,end_date,current_flag
+1,Alice,Los Angeles,2023-01-01,9999-12-31,Y
+2,Bob,Chicago,2023-01-01,9999-12-31,Y
+3,Charlie,San Francisco,2023-01-01,9999-12-31,Y

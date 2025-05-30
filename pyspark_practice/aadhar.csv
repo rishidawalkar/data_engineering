@@ -1,0 +1,11 @@
+state,district,gender,age,aadhar_generated,enrolment_agency
+Maharashtra,Mumbai,M,34,1,Agency1
+Maharashtra,Mumbai,F,22,1,Agency1
+Maharashtra,Pune,M,40,0,Agency2
+Maharashtra,Pune,F,30,1,Agency2
+Maharashtra,Pune,F,30,1,Agency2
+Karnataka,Bangalore,M,28,1,Agency3
+Karnataka,Bangalore,F,25,0,Agency3
+Karnataka,Mysore,M,50,1,Agency4
+Karnataka,Mysore,F,48,1,Agency4
+Karnataka,Mysore,F,48,1,Agency4

@@ -1,11 +1,11 @@
-Store_Id,Item,Amount
-1,Cosmetic,150
-2,Stationary,250
-3,Apparel,180
-4,Food,500
-5,Leisure,300
-1,Deo,100
-2,Books,200
-3,Tshirts,120
-4,Burgers,200
-5,Movie,180
+product_id,product_name,category,price
+1,Laptop,Electronics,999.99
+2,Smartphone,Electronics,799.99
+3,Headphones,Electronics,199.99
+4,Refrigerator,Appliances,1499.99
+5,Microwave,Appliances,299.99
+6,T-shirt,Clothing,19.99
+7,Jeans,Clothing,49.99
+8,Blender,Appliances,99.99
+9,Coffee Maker,Appliances,79.99
+10,Shoes,Clothing,89.99

@@ -1,0 +1,11 @@
+state,age,months,vaccine,doses
+Maharashtra,18-45,Jan,Covaxin,120000
+Maharashtra,18-45,Jan,Covishield,180000
+Maharashtra,45+,Jan,Covaxin,90000
+Maharashtra,45+,Jan,Covishield,130000
+Maharashtra,18-45,Feb,Covaxin,110000
+Maharashtra,18-45,Feb,Covishield,175000
+Kerala,18-45,Jan,Covaxin,80000
+Kerala,45+,Jan,Covishield,90000
+Kerala,45+,Feb,Covaxin,95000
+Kerala,45+,Feb,Covishield,115000

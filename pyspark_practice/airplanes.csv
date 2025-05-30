@@ -1,0 +1,6 @@
+cust_id,flight_id,origin,destination
+1,ABC123,Delhi,Hyderabad
+1,DEF123,Kochi,Mangalore
+1,EFG123,Hyderabad,Kochi
+2,JFK123,Mumbai,Varanasi
+2,XYZ123,Varanasi,Delhi

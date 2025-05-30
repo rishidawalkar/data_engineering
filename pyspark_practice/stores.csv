@@ -1,6 +1,10 @@
-Store_Id,Store_name
-1,Store_london
-2,Store_nyc
-3,Store_paris
-4,Store_LA
-5,Store_swiss
+store_name,month,sales
+Store A,1,800
+Store A,2,1200
+Store A,3,900
+Store B,1,1500
+Store B,2,1600
+Store B,3,1400
+Store C,1,700
+Store C,2,1000
+Store C,3,800
