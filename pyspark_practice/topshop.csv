@@ -1,0 +1,4 @@
+product_name,mrp,price,pdp_url,brand_name,category,retailer,desc,rating
+ProductB,200,190,url7,BrandB,Category1,TopShop,DescriptionB,4.1
+ProductF,100,90,url8,BrandF,Category3,TopShop,DescriptionF,3.5
+ProductG,300,270,url9,BrandG,Category5,TopShop,DescriptionG,4.3

@@ -1,11 +1,6 @@
 product_id,product_name,category,price
-1,Laptop,Electronics,999.99
-2,Smartphone,Electronics,799.99
-3,Headphones,Electronics,199.99
-4,Refrigerator,Appliances,1499.99
-5,Microwave,Appliances,299.99
-6,T-shirt,Clothing,19.99
-7,Jeans,Clothing,49.99
-8,Blender,Appliances,99.99
-9,Coffee Maker,Appliances,79.99
-10,Shoes,Clothing,89.99
+101,Laptop,Electronics,1000
+102,Phone,Electronics,500
+103,Headphones,Accessories,150
+104,Tablet,Electronics,600
+105,Smartwatch,Accessories,200

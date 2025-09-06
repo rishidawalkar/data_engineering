@@ -1,0 +1,4 @@
+product_name,mrp,price,pdp_url,brand_name,category,retailer,desc,rating
+ProductA,100,85,url4,BrandA,Category1,Macys,DescriptionA,4.5
+ProductD,150,130,url5,BrandD,Category3,Macys,DescriptionD,4
+ProductE,250,210,url6,BrandE,Category4,Macys,DescriptionE,3.9

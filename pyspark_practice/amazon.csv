@@ -1,0 +1,4 @@
+product_name,mrp,price,pdp_url,brand_name,category,retailer,desc,rating
+ProductA,100,80,url1,BrandA,Category1,Amazon,DescriptionA,4.5
+ProductB,200,180,url2,BrandB,Category1,Amazon,DescriptionB,4.2
+ProductC,300,250,url3,BrandC,Category2,Amazon,DescriptionC,4.8

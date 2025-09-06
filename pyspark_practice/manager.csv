@@ -1,0 +1,7 @@
+id,name,manager_id,salary
+1,John,,90000
+2,Jane,1,95000
+3,Alice,1,80000
+4,Bob,,85000
+5,Charlie,4,88000
+6,Eve,4,84000
